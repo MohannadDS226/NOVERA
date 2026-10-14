@@ -2,6 +2,10 @@
 
 A cinematic, editorial portfolio experience for Project 208 — NOVERA.
 
+## Image quality
+
+The visible page uses full-resolution, 10-bit AVIF images encoded at a high-quality setting for sharp architectural detail without excessive initial load time. Full-resolution WebP files remain as compatibility and social-preview assets.
+
 ## Future scroll-film integration
 
 The site automatically checks for these files:
